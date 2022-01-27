@@ -1,7 +1,6 @@
 ---
 layout: about
 title: about
-permalink: /
 subtitle: **Applied Scientist, Machine Learning, Amazon AWS AI**
 
 profile:
