@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am an Applied Scientist at [AWS AI](https://amazon.jobs/en/internal/teams/amazonai), working in natural language processing (information retrieval, question answering, machine translation, representation learning, etc.). My current academic pursuits involve understanding the underpinnings of how foundation models learn. 
 
-At Amazon, I work with a group of wonderful scientists whose creativity and enthusiasm are the primary reasons why I have not abandoned society to live out my life pedding art NFTs from my sizeable digital estate in the Fashion Street district of Decentraland.
+At Amazon, I work with a group of wonderful scientists whose creativity and enthusiasm are the primary reasons why I have not abandoned society to peddle art NFTs from my sizeable digital estate in the Fashion Street district of Decentraland.
 
 Prior to Amazon, I worked as a Software Engineer at Yahoo and obtained my MS degree in Computer Science from UC San Diego, where I was advised by [Prof. Gary Cottrell](https://cseweb.ucsd.edu/~gary/). During my undergrad, I was fortunate enough to work with [Prof. Michael J Tarr](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/tarr-michael.html) exploring how humans perceive faces and scenes.
 
