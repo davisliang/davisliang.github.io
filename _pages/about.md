@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href="https://www.linkedin.com/in/liangdavis/">Applied Scientist at Amazon AI</a>
 
 profile:
   align: right
