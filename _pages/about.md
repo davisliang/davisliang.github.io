@@ -26,7 +26,7 @@ I am interested in
 * Robust Machine Learning, in particular machine learning models that are robust to noises and distribution shift.
 * ML for Social Good, in particular tackling issues in fairness, bias, and misinformation.
 * Multilingual Systems, with a focus on zero-shot transfer to low-resource languages.
-* Large-scale Representation Learning, with a focus on unsupervised methods for representation learning.
+* Foundation Models and unsupervised methods for representation learning.
 
 ## Contact Me
 Please send all research and job-related inquiries to davisblaine.liang(at)gmail.com. 
