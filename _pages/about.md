@@ -1,9 +1,8 @@
-
 ---
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>**Applied Scientist, Machine Learning, Amazon AWS AI**</a>.
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
