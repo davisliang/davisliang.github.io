@@ -138,6 +138,7 @@ exclude:
   - vendor
   - projects
   - teaching
+  - blog
 keep_files:
   - CNAME
   - .nojekyll
