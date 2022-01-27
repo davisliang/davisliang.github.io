@@ -1,7 +1,9 @@
+
 ---
 layout: about
 title: about
-subtitle: **Applied Scientist, Machine Learning, Amazon AWS AI**
+permalink: /
+subtitle: <a href='#'>**Applied Scientist, Machine Learning, Amazon AWS AI**</a>.
 
 profile:
   align: right
