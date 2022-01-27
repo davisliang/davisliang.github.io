@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: **Applied Scientist, Machine Learning, Amazon AWS AI**
 
 profile:
   align: right
@@ -21,12 +21,12 @@ I am an Applied Scientist at [AWS AI](https://aws.amazon.com/ai/), working towar
 
 Prior to Amazon, I worked as a Software Engineer at Yahoo and obtained my MS degree in Computer Science from UC San Diego, where I was advised by [Prof. Gary Cottrell](https://cseweb.ucsd.edu/~gary/). During my undergrad, I was fortunate enough to work with [Prof. Michael J Tarr](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/tarr-michael.html) exploring the human perception of faces and scenes.
 
-## Research Areas
+## research
 I am interested in
 * Robust Machine Learning, in particular machine learning models that are robust to noises and distribution shift.
 * ML for Social Good, in particular tackling issues in fairness, bias, and misinformation.
 * Multilingual Systems, with a focus on zero-shot transfer to low-resource languages.
 * Foundation Models and unsupervised methods for representation learning.
 
-## Contact Me
+## contact
 Please send all research and job-related inquiries to davisblaine.liang(at)gmail.com. 
