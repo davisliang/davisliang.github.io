@@ -83,9 +83,9 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: TheLocalMinima  # your blog must have a name for it to show up in the nav bar
+blog_name: # your blog must have a name for it to show up in the nav bar
 blog_description: An empirical blog that explores the yet unexplored in machine learning.
-permalink: https://medium.com/thelocalminima
+permalink:
 
 # Pagination
 pagination:
