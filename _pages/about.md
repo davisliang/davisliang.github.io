@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://www.linkedin.com/in/liangdavis/">Sr. Applied Research Scientist at Meta AI (Facebook AI)</a>
+subtitle: <a href="https://www.linkedin.com/in/liangdavis/">Sr. Applied Research Scientist at Meta AI (formerly Facebook AI)</a>
 
 profile:
   align: right
@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Applied Research Scientist at [Meta AI (Formerly Facebook AI)](https://ai.facebook.com/), working on natural language processing research. My current academic pursuits involve understanding the underpinnings of how foundation models learn. 
+I am an Applied Research Scientist at [Meta AI](https://ai.facebook.com/), working on natural language processing research. My current academic pursuits involve understanding the underpinnings of how foundation models learn. 
 
 At Meta, I work with a group of wonderful scientists whose creativity and enthusiasm are the primary reasons why I have not abandoned society to peddle art NFTs from a sizeable digital estate in the Fashion Street district of Decentraland.
 
