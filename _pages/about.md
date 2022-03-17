@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an incoming Applied Research Scientist at [Meta AI (formerly Facebook AI)](https://ai.facebook.com/), working on natural language processing research. My current academic pursuits involve understanding the underpinnings of how foundation models learn. 
+I am Sr. Applied Research Scientist at [Meta AI (formerly Facebook AI)](https://ai.facebook.com/), working on natural language processing research. My current academic pursuits involve understanding the underpinnings of how foundation models learn. 
 
 Prior to Meta, I worked on information retrieval, machine translation, and speech recognition as an Applied Scientist at Amazon (AWS) AI. At Amazon, I worked with a group of wonderful scientists whose creativity and enthusiasm are the primary reasons why I have not abandoned society to peddle art NFTs from a sizeable digital estate in the Fashion Street district of Decentraland.
 
