@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Sr. Research Scientist at [Meta AI (formerly Facebook AI)](https://ai.facebook.com/), working on natural language processing research. My current academic pursuits involve understanding the underpinnings of how foundation models learn. 
 
-Prior to Meta, I worked on information retrieval, machine translation, and speech recognition as an Applied Scientist at Amazon (AWS) AI. At Amazon, I worked with a group of wonderful scientists whose creativity and enthusiasm are the primary reasons why I have not abandoned society to peddle art NFTs from a sizeable digital estate in the Fashion Street district of Decentraland.
+Prior to Meta, I worked on information retrieval, machine translation, and speech recognition as an Applied Scientist at Amazon (AWS) AI. At Amazon, I worked with a group of wonderful scientists whose creativity and enthusiasm are the primary reasons why I have not abandoned society to peddle art NFTs from a sizeable digital estate in Fashion Street district, Decentraland.
 
 I also worked as a Software Engineer at Yahoo and obtained my MS degree in Computer Science from UC San Diego, where I was advised by [Prof. Gary Cottrell](https://cseweb.ucsd.edu/~gary/). During my undergrad, I was fortunate enough to work with [Prof. Michael J Tarr](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/tarr-michael.html) exploring how humans perceive faces and scenes.
 
