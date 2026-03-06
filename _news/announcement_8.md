@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-09-11 00:23:00-0400
+date: 2025-06-24 00:23:00-0400
 inline: true
 ---
 
-I had the opportunity to talk about the past, present, and future of AI in Healthcare with Out-of-Pocket Health. [[Article]](https://www.outofpocket.health/p/the-engineering-behind-healthcare-llms-with-abridge).
+Proud to be a part of Abridge's $300M Series E led by Andreessen Horowitz and fueling our next phase building agentic AI for healthcare conversations. [[Article]](https://www.abridge.com/blog/series-e)

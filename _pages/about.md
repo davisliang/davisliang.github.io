@@ -19,9 +19,9 @@ Prior to Meta, I worked on question answering, information retrieval, machine tr
 
 ### Research Interests
 I am interested in:
-* ML for social good, particularly addressing challenges in underserved sectors like healthcare and education and supporting underserved communities through improved capabilities for low-resource languages.
-* Safe ML, through rigorous evaluation methodologies and well-designed guardrails.
-* ML beyond LLMs, exploring world models, diffusion architectures, and other emerging approaches that push beyond current paradigms.
+* **ML for Social Good**, particularly addressing challenges in underserved sectors like healthcare and education and supporting underserved communities through improved capabilities for low-resource languages.
+* **Safe ML**, through rigorous evaluation methodologies and well-designed guardrails.
+* **ML Beyond LLMs**, exploring world models, diffusion architectures, and other emerging approaches that push beyond current paradigms.
 
 ### Contact
 Please send all research and work-related inquiries to davisblaine.liang(at)gmail.com. 

@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2025-06-24 00:23:00-0400
+date: 2025-08-19 00:23:00-0400
 inline: true
 ---
 
-Proud to be a part of Abridge's $300M Series E led by Andreessen Horowitz and fueling our next phase building agentic AI for healthcare conversations. [[Article]](https://www.abridge.com/blog/series-e)
+Excited to share our new paper, “The Science of Confabulation Elimination,” on building systems that detect and eliminate hallucinations in AI-generated clinical documentation.
+[[Article]](https://www.abridge.com/ai/science-confabulation-hallucination-elimination)
