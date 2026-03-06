@@ -67,10 +67,12 @@ if ! git diff-index --quiet HEAD --; then
     [[ "$0" = "$BASH_SOURCE" ]] && exit 1 || return 1
 fi
 
-# Check if there are any untracked files
-if ! test -z "$(git ls-files --exclude-standard --others)"; then
+# Check if there are any untracked files.
+# Ignore Gemfile.lock because CI may generate it when not committed yet.
+UNTRACKED_FILES="$(git ls-files --exclude-standard --others | grep -v '^Gemfile.lock$' || true)"
+if ! test -z "${UNTRACKED_FILES}"; then
     echo "There are untracked files:"
-    git ls-files --exclude-standard --others
+    echo "${UNTRACKED_FILES}"
     echo "Please commit those files or stash them before proceeding."
     echo "Aborting."
     [[ "$0" = "$BASH_SOURCE" ]] && exit 1 || return 1
