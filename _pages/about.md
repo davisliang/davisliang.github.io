@@ -10,7 +10,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes contact links beneath the page title
+social: false # hide contact links beneath the page title
 ---
 
 I previously led the Machine Learning Team at [Abridge AI](https://www.abridge.com/) and applied my research in multilinguality, automatic speech recognition (ASR), and large language models to build state-of-the-art clinical intelligence for doctors and patients. Before that, I was a Senior Research Scientist at [Meta AI](https://ai.facebook.com/) working on large-scale pretraining of multilingual language models.
